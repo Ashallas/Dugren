@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tristan Hedges, or you can refer to me by my chosen gaming alias, PhantomArcher.
+- 👋 Hi, I’m Tristan Hedges, or you can refer to me by my chosen gaming alias, Dugren
 - 👀 I’m interested in game development, software development, and computer science.
 - 🌱 I’m currently learning the Unity game engine.
 - 💞️ I’m looking to collaborate on anything that sounds fun! Most likely games at the moment.
